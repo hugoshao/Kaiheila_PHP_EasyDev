@@ -1,18 +1,10 @@
 
 <h1 align="center">
   <br>
-  <a href="https://kaihei.co/XGtqwD"><img src="https://kaiheila.cn/css/image/logo-font.svg" alt="Kaiheila" width="200"></a>
+  开黑啦 EasyDev PHP SDK
   <br>
-  KAIHEILA EasyDev PHP SDK
-  <br>
-
 </h1>
 
-<h4 align="center">开黑啦 EasyDev PHP-SDK</h4>
-
-
-
-<br>
 <p align="center">
      <a href="https://kaihei.co/XGtqwD">
     <img src="https://img.shields.io/badge/开黑啦-加入服务器-green?logo=php&style=for-the-badge"></a>
@@ -22,8 +14,8 @@
   <a href="#项目介绍">项目介绍</a> •
   <a href="#如何使用">如何使用</a> •
   <a href="#下载">下载</a> •
-  <a href="#感谢">感谢</a> •
-  <a href="#license">License</a>
+  <a href="#归功于">归功于</a> •
+  <a href="#license">使用许可证</a>
 </p>
 
 
@@ -69,7 +61,7 @@ $ git clone https://github.com/hugoshao/Kaiheila_EasyDev_PHP.git
 
 ## License
 
-<a href="https://github.com/911emc">
+<a href="https://github.com/hugoshao/Kaiheila_EasyDev_PHP">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 
 ---
