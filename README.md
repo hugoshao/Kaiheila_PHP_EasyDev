@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  开黑啦 EasyDev PHP SDK
+  开黑啦 PHP EasyDev SDK
   <br>
 </h1>
 
@@ -21,7 +21,7 @@
 
 ## 项目介绍
 
-* 开黑啦 EasyDev-PHP-SDK 是一款针对开黑啦软件所开发的面向PHP开发者所使用的SDK
+* 开黑啦 PHP-EasyDev-SDK 是一款针对开黑啦软件所开发的面向PHP开发者所使用的SDK
   - 开发者可以通过简单的工作做出很棒的功能。
   - 项目MIT开源，所有开发者可共同维护。
   - 根据吐槽中心的最新消息，本SDK预计12月开始开发
@@ -39,7 +39,7 @@ $ mkdir kaiheila
 # 进入项目文件夹
 $ cd kaiheila
 # 克隆资源
-$ git clone https://github.com/hugoshao/Kaiheila_EasyDev_PHP.git
+$ git clone https://github.com/hugoshao/Kaiheila_PHP_EasyDev.git
 ```
 <br>
 
